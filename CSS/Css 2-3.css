@@ -1,0 +1,306 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navBar {
+    max-width: 1231px;
+    width: 100%;
+    margin-right: 0 auto;
+    padding: 12px 24px;
+    background: #F7F4FF;
+    margin-left: auto;
+    margin-bottom: 142px;
+}
+
+.companyLogo {
+    vertical-align: middle;
+    max-width: 173.66px;
+    width: 100%;
+    margin-right: 275px;
+}
+
+.navigation {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.navigation a {
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.navigationGrey {
+    color: #323;
+}
+
+.navigationPink {
+    color: #8E26C0;
+}
+
+.contactUs {
+    max-width: 105px;
+    width: 100%;
+    margin-left: 255px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    color: #8E26C0;
+    font-size: 14px;
+}
+
+.offerContainer {
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 83PX;
+}
+
+.mainImg {
+    width: 610px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.whatWeOffer {
+    max-width: 644px;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.offerHeader {
+    color: #000;
+    font-size: 40px;
+    margin-bottom: 16px;
+    }
+
+.orderedlists {
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 12px;
+}
+
+.orderedlists li {
+    color: #000;
+    font-size: 24px;
+    line-height: 32px 
+}
+
+.offerText {
+    text-align: left;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    color: #535862;
+    font-family: Prata;
+    font-size: 20px;
+}
+
+/*Contact Us*/
+
+.contactUsContainer {
+    max-width: 905px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contuctUsHeader {
+    color: #000;
+    font-size: 56px;
+    margin-bottom: 18px;
+}
+
+.contuctUsText {
+    color: #535862;
+    font-size: 20px;
+    margin-bottom: 28px;
+}
+
+.contactUsInfo {
+    max-width: 1250px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 32px;
+    border-radius: 16px;
+    background: #F7F4FF;
+}
+
+.leftContactContainer {
+    max-width: 403px;
+    width: 100%;
+    height: 474px;
+    border-radius: 16px;
+    background: #FFF;
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+}
+
+.imgLocEmailPhone {
+    vertical-align: middle;
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    border-radius: 50px;
+    background: #F7F4FF;
+}
+
+.addresEmailPhone {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 16px;
+}
+
+.addresEmailPhoneMargin {
+    margin-bottom: 24px;
+}
+
+.addresEmailPhoneHeader {
+    color: #000;
+    font-size: 20px
+}
+
+.addresEmailPhoneText {
+    color: #6D5F8B;
+    font-size: 16px;
+}
+
+.rightContactContainr {
+    max-width: 759px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.formHeader {
+    color: #1B003D;
+    font-size: 32px;
+    line-height: 44px;
+    letter-spacing: 1.28px;
+    margin-bottom: 16px;
+}
+
+.personalInfo {
+    max-width: 759px;
+    width: 100%;
+    padding: 8px 16px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    color: #6D5F8B;
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 24px;
+    margin-top: 8px;
+}
+
+.textArea {
+    height: 146px;
+    padding: 12px 16px;
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+    max-width: 759px;
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+.personalInfoHeader {
+    color: #1B003D;
+    font-size: 14px;
+    line-height: 18px; 
+}
+
+.sendContainer {
+    max-width: 759px;
+    max-width: 100%;
+    text-align: right;
+}
+
+.send {
+    max-width: 140px;
+    width: 100%;
+    text-align: center;
+    padding: 12px 24px;
+    border-radius: 8px;
+    background: #8E26C0;
+    border: none;
+}
+
+/*footer*/
+
+.footerContainer {
+    padding: 64px 0px 48px 0px;
+    background: #53389E;
+    margin-top: 163px;
+}
+
+.footerContainerCenter {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto; 
+    padding: 0px 32px ;
+}
+
+.footerLists {
+    width: 176px;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footerListsHeader {
+    display: inline-block;
+    margin-bottom: 16px;
+    color: #D6BBFB;
+    font-size: 14px;
+    line-height: 20px
+
+}
+
+.footerLists a {
+    text-decoration: none;
+    display: block;
+    margin-bottom: 12px;
+    color: #E9D7FE;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.solutionNew {
+    border-radius: 6px;
+    border: 1px solid #ffffff4d;
+    background: #ffffff1a;
+    color: #FFF;
+    text-align: center;
+    font-size: 12px;
+    line-height: 18px;
+    margin-left: 8px;
+}
+
+.UntitledUi {
+    vertical-align: middle;
+    margin-top: 32px;
+}
+
+.footerText {
+    width: 1050px;
+    display: inline-block;
+    vertical-align: middle;
+    color: #E9D7FE;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    margin-top: 32px;
+}
+
+.footerBorder {
+    margin-top: 64px;
+    border-top: 1px solid #7F56D9;
+}
